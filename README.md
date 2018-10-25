@@ -3,4 +3,4 @@
 
 Tämä on Git-versionhallinnan harjoittelurepon etusivu ja on tarkoitettu niille, jotka …
 
-
+i did gud
