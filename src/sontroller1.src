@@ -1,4 +1,4 @@
-Täällä on jotain
+Täällä on jotain, i did more gud
 var mongoose = require('mongoose')
 var Video = require('../models/user');
 
