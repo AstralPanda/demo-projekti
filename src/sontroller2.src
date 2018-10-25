@@ -1,3 +1,4 @@
+tooo slöw
 var mongoose = require('mongoose')
 var Video = require('../models/user');
 module.exports.controller = function(app) {
